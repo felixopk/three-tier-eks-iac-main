@@ -103,6 +103,8 @@ Syntax: aws eks update-kubeconfig --region region-code --name your-cluster-name
 ```
 aws eks update-kubeconfig --region us-west-2 --name my-eks-cluster
 ```
+**This is to check if you have authorised access to the EKS**
+kubectl auth can-i "*" "*"
 
 
 
