@@ -109,8 +109,7 @@ kubectl auth can-i "*" "*"
 
 
 **Create Namespace**
-```
-kubectl create ns workshop
+```kubectl create ns workshop
 
 kubectl config set-context --current --namespace workshop
 ```

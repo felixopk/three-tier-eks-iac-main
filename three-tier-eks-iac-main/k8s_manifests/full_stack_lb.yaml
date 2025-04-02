@@ -14,7 +14,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: opkcloudz.com
+    - host: app.opkcloudz.com
       http:
         paths:
           - path: /api
