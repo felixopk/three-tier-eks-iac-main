@@ -18,7 +18,7 @@ https://aws.amazon.com/cli/
 
 **Refer to below Youtube Video Tutorial**
 
-[![YouTube Video](https://img.youtube.com/vi/ebSAb-ERqAM/maxresdefault.jpg)](https://www.youtube.com/watch?v=ebSAb-ERqAM)
+
 
 
 #update the Kubernetes context
