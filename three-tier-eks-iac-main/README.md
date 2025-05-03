@@ -1,6 +1,6 @@
 # three-tier-eks-iac
 
-# Prerequisite 
+# Prerequisite :
 
 **Install Kubectl**
 https://kubernetes.io/docs/tasks/tools/
@@ -111,8 +111,8 @@ kubectl auth can-i "*" "*"
 **Create Namespace**
 ```kubectl create ns workshop
 
-kubectl config set-context --current --namespace workshop
-```
+
+```kubectl config set-context --current --namespace workshop
 
 # MongoDB Database Setup
 
